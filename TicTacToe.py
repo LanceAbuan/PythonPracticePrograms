@@ -404,4 +404,4 @@ make_board(False)
 turtle.mainloop()
 
 # Made By Lance Jodie Salvanera Abuan
-# Last Updated: August 14th, 2020, 2:32 PM
+# Last Updated: August 14th, 2020, 2:40 PM
