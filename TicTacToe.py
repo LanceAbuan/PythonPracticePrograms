@@ -25,8 +25,6 @@ winner = None
  this program calls a blank version of itself. Also, after every match, the first player alternates. For example,
  if X moves first one round, the next round O moves first. This is for competitive balance, tee-hee!
 """
-
-
 def make_board(finished):
     global initial_player
     """ "game_over" and "finished" are two separate variables for a reason. game_over is global because it will be used 
